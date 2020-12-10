@@ -1,5 +1,5 @@
 # fetch-example
-Welcome! This is a code challenge I completed, wherein I had to had to use [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) to take in data from a certain endpoint and transform the response. 
+Welcome! This is a code challenge I completed, wherein I had to had to use [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) to take in data from a certain endpoint and transform the response. The bulk of my code is in [api/managed-records.js](https://github.com/katieishibashi/fetch-example/blob/main/api/managed-records.js)
 
 ##The task:
 1. Pull data from the `/records` at, processing pages of 10 items at a time
